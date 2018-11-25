@@ -19,6 +19,7 @@ Small note to the sun library. We changed the methods rise and set, to sunrise a
 Getting started:
 First off, in order to get access to the darksky API you need to make an account at https://darksky.net. After the creation, and you logged in, you should maneuver to the API tap. From there just copy paste the API – there is a “secret code” but its already in the actual API so copy pasting is fine.
 In order to get the program working, you will need a Wi-Fi connection and of course, know the password. At the top of the program write in the name of the internet and the password.
+![alt text](https://github.com/codingStufff/Ambient-Light-with-api/blob/master/Capturewifi.PNG)
  
 If the program should work precise according to your individual position, the Sun library needs both longitude and latitude.
  
