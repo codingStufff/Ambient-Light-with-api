@@ -6,7 +6,7 @@ Hardware:
 •	Dmx shield
 •	Jumper wire 
 •	One or more dmx lamps + cables
-  
+![alt text](https://github.com/codingStufff/Ambient-Light-with-api/blob/master/IMG_1538%202.JPG)  
 Software:
 •	Arduino IDE 1.8.5 newer versions may be compatible
 Libraries:
