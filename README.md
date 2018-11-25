@@ -28,6 +28,10 @@ We also initialize how many ports we want to use regarding the dmx lamps.
  
 The entire void loop function can be modified to your preferences. If you simply want to change the speed pr. Call to dark sky, you have to change period.
  
-Remember that 1000 milliseconds = 1 second. Further it should be noted, that this rate of requests has been chosen in order to test the program, and dark sky only allows 1000 calls pr. Day. Everything exceeding this will require a payment. 
+Remember that 1000 milliseconds = 1 second. Further it should be noted, that this rate of requests has been chosen in order to test the program, and dark sky only allows 1000 calls pr. Day. Everything exceeding this will require a payment.
+
+visual diagram of the electric circuit.
+![alt text](https://github.com/codingStufff/Ambient-Light-with-api/blob/master/dmxFritz.png)
+
 
 Happy illuminating.
