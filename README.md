@@ -24,6 +24,7 @@ In order to get the program working, you will need a Wi-Fi connection and of cou
 If the program should work precise according to your individual position, the Sun library needs both longitude and latitude.
  
 We also initialize how many ports we want to use regarding the dmx lamps.
+![alt text](https://github.com/codingStufff/Ambient-Light-with-api/blob/master/Capturelongtitude.PNG)
  
 The entire void loop function can be modified to your preferences. If you simply want to change the speed pr. Call to dark sky, you have to change period.
  
