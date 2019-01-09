@@ -5,11 +5,11 @@
 
 #include <WiFiClientSecure.h>
 const int _httpsPort = 443;
-const char* _apiLink = "/forecast/413f75777aa56c4e92ec9005c751ae80/55.661934,12.402117?exclude=minutely,hourly,daily,flags&units=si";
+const char* _apiLink = "/forecast//55.661934,12.402117?exclude=minutely,hourly,daily,flags&units=si";
 const char* _apiHost = "api.darksky.net";
 const char* _apiHostFingerprint = "16 D2 B8 63 6A B7 05 26 96 CF BD 55 79 2C 52 24 2D 51 2B 3A";
-const char* ssid = "thormod";
-const char* password = "Jt160790";
+const char* ssid = "";
+const char* password = "";
 const int httpsPort = 443;
 boolean DEBUG_DarkSkyAPI = true;
 
